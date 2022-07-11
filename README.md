@@ -1,4 +1,4 @@
-# Flutter Firebase - The Full Course 3.0
+# Flutter Firebase - Quiz App
 
 🕊️🔥 Build a realtime Quiz App from scratch with Flutter 3 & Firebase.
 
