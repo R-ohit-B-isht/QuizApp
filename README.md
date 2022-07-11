@@ -8,7 +8,7 @@
 
 ```
 git clone https://github.com/R-ohit-B-isht/QuizApp.git
-cd quizapp
+cd QuizApp
 
 flutter run
 ```
