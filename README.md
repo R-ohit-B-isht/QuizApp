@@ -7,7 +7,7 @@
 ## Run it
 
 ```
-git clone https://github.com/fireship-io/flutter-firebase-quizapp-course.git quizapp
+git clone https://github.com/R-ohit-B-isht/QuizApp.git
 cd quizapp
 
 flutter run
