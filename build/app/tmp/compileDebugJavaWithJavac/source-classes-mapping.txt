@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+io/fireship/quizapp/BuildConfig.java
+ io.fireship.quizapp.BuildConfig
