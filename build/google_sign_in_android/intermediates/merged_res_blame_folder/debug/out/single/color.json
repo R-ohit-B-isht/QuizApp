@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rohit/Desktop/flutter/Project/flutter-firebase-quizapp-course-master/build/google_sign_in_android/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/rohit/.gradle/caches/transforms-2/files-2.1/64613e6ba596a6532dd6174a56a1b5b6/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/rohit/Desktop/flutter/Project/flutter-firebase-quizapp-course-master/build/google_sign_in_android/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/rohit/.gradle/caches/transforms-2/files-2.1/64613e6ba596a6532dd6174a56a1b5b6/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/rohit/Desktop/flutter/Project/flutter-firebase-quizapp-course-master/build/google_sign_in_android/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/rohit/.gradle/caches/transforms-2/files-2.1/64613e6ba596a6532dd6174a56a1b5b6/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]
